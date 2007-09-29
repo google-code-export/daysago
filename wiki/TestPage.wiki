@@ -2,12 +2,15 @@
 [한글] [영어]
 = Introduction =
 
-daysago is java module.
+Daysago is java module, which delinates with the specified formats
+regarding :
 
+   how long has been since the last time modified.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Here are four methods, testDiff(), testMonthBug(), testSpace(), testLocale():
+  * testDiff() 
+  * tesetMonthBug() 
+  * testSpace() 
+  * testLocale() 
