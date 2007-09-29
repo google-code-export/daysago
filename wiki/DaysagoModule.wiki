@@ -4,7 +4,7 @@
 Daysago is java module, which delinates with the specified formats
 regarding :
 
-   How long it has been since the last time modified.
+   How long it has been since the last time modified
 
 = Details =
 
