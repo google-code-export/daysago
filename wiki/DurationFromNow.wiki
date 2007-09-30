@@ -1,10 +1,11 @@
 [한글] [영어]
 = Introduction =
 
-Daysago is java module, which delinates with the specified formats
-regarding :
+DurationFromNow is a java class, which delinates 
 
-   How long it has been since the last time modified
+   How long it has been since the last time it is created/modified
+
+with the specified formats.
 
 = Details =
 
