@@ -1,0 +1,19 @@
+[한글] [영어]
+= Introduction =
+
+Daysago is java module, which delinates with the specified formats
+regarding :
+
+   How long it has been since the last time modified
+
+= Details =
+
+Here are seven methods  :
+
+  * getTimeDiffLabel(String) 
+  * getTimeDiffLabel(Date) 
+  * getTimeDiffLabel(String, String) 
+  * getTimeDiffLabel(Date, Date)
+  * getLocale() 
+  * getString(int, String)
+  * getString(String)
