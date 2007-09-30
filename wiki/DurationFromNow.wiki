@@ -1,4 +1,4 @@
-[한글] [http://code.google.com/p/daysago/w/edit/DurationFromNow#whb [영어]]
+[한글] [영어]
 = Introduction =
 
 Daysago is java module, which delinates with the specified formats
