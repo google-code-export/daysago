@@ -1,0 +1,20 @@
+[한글] [영어]
+# Introduction #
+
+DurationFromNow is a java class, which delinates
+
+> How long it has been since the last time it is created/modified
+
+with the specified formats.
+
+# Details #
+
+Here are seven methods  :
+
+  * getTimeDiffLabel(String)
+  * getTimeDiffLabel(Date)
+  * getTimeDiffLabel(String, String)
+  * getTimeDiffLabel(Date, Date)
+  * getLocale()
+  * getString(int, String)
+  * getString(String)
